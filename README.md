@@ -40,11 +40,6 @@ SOFTWARE / FIRMWARE
 Para conducir el brazo, existen muchos variants: utilizando todo método disponible con arduino: bocetos, potenciómetros, joystick, WII nunchuck ... Pero al final,el controlador de Pololu que resuelve todos los problemas relacionados con el servoaccionamiento de la manera más fácil. Puede adjuntar hasta 6 - 12 - 24 servos dependiendo del tipo de controlador y se proporciona con un software que le brinda la capacidad de conducir el servo en movimiento manual mientras tanto puede ajustar los valores de velocidad y aceleración para cualquier elemento singular. También puede crear secuencias de comandos de una manera fácil, almacenarlas en el controlador o obtener el código automáticamente. 
 
 
-Mainly depends if you want to freely move it or make it repeat a loop.
-I found easy using a Pololu Mini Maestro card that doesn't requires writing any code.
-Anyway I made an Instructables: Android APP to control a 3DPrinted Robot where you can find some code
-
-
 
 PRINT SETTINGS:
 Printer Brand: RepRap
